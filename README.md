@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Welcome+to+profile+of+Dron)](https://git.io/typing-svg)
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Welcome+to+profile+of+Dron)](https://git.io/typing-svg)
+
 <h3 align="center">I'm a passionate Full Stack Developer and Devops Engineer.And recently exploring on more topics </h3>
 
 
