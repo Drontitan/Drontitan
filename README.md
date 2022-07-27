@@ -1,3 +1,4 @@
+![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋;Welcome+to+profile+of+Dron)](https://git.io/typing-svg)
@@ -75,3 +76,6 @@
     <img src="https://komarev.com/ghpvc/?username=Drontitan">
 </a>
 <a href="https://github.com/Drontitan?tab=followers"><img src="https://img.shields.io/github/followers/Drontitan?label=Followers&style=social" alt="GitHub Badge"></a>
+
+![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+
