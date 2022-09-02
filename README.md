@@ -49,8 +49,7 @@
 
   <br/>
 <p align="center">
-    <a href="https://github.com/Drontitan/github-readme-stats"><img alt="Dron Rahangdale's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Drontitan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Drontitan/github-readme-stats"><img height="195px"  alt="Dron Rahangdale's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drontitan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Drontitan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drontitan&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 <p align="center">
 <a href="https://github.com/Drontitan/github-readme-activity-graph"><img width="900px" alt="Dron Rahangdale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Drontitan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
